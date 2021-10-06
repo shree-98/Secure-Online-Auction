@@ -1,0 +1,77 @@
+body{
+	background-image: url(images/22.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100px;
+}
+.simple-form{
+	text-align:center;
+	margin:100px 400px;
+}
+#loggin{
+	width: 50%;
+	background-color: #051019;
+	opacity: 0.8;
+	padding: 50px 8px;
+}
+#button{
+	width: 250px;
+	padding: 10px;
+	border-radius: 5px;
+}
+#btnchbv{
+	color: white;
+	font-size: 18px;
+}
+#btn{
+	width: 50%;
+	padding: 10px;
+	border-radius: 5px;
+	background-color: #0c6996;
+	border: 2px solid #01010c;
+	color: aliceblue;
+	font-size: 18px;
+}
+.register-form{
+	text-align:center;
+	margin:100px 400px;
+}
+#registration{
+	width: 100%;
+	background-color: #051019;
+	opacity: 0.8;
+	padding: 50px 4px;
+}
+#bt{
+	outline: 0px;
+	width: 250px;
+	padding: 10px;
+	border-radius: 5px;
+}
+#product{
+	width: 100%;
+	background-color: #051019;
+	opacity: 0.8;
+	padding: 50px 4px;
+}
+#fbtn{
+	width: 19%;
+	position:absolute; 
+	left:550px; right:10px;
+	
+	
+	clear: both;
+	align: center;
+	padding: 10px;
+	border-radius: 5px;
+	
+	border: 2px solid #01010c;
+	color: aliceblue;
+	font-size: 18px;
+	}
+#hmm{
+	color: blue;
+	font-size: 50px;
+	}
+#jumbo{
+    min-height: 200px;
+}
